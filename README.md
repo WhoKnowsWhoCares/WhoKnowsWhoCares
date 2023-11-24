@@ -26,8 +26,6 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/asfrantsev#gh-dark-mode-only)
 
 <br />
-<br />
-
 ---
 
 [website]: https://frants.site
