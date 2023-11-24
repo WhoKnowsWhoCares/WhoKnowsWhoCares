@@ -1,4 +1,4 @@
-# Hi there, I'm Alexander aka asFrants
+# Hello there!
 
 ## Analyst, ML-engineer, Trader ✨
 
