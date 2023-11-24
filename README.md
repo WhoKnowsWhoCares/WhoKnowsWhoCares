@@ -25,9 +25,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/asfrantsev#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/asfrantsev#gh-dark-mode-only)
 
-<br />
----
-
 [website]: https://frants.site
 [facebook]: https://facebook.com/alexander_frantsev
 [instagram]: https://instagram.com/asfrants
