@@ -1,5 +1,6 @@
+# Hi there, I'm Alexander aka asFrants
 
-### Analyst, ML-engineer, Trader ✨
+## Analyst, ML-engineer, Trader ✨
 
 - 🔭 Check out [My Site][website]
 - 🌱 Currently working on [Sport Betting](https://frants.site/ml_sport) and [Trading](https://frants.site/trade4me) 
@@ -7,7 +8,7 @@
 - ⚡ Hobby: Swimming, [AI-generated Arts with Stable Diffusion](https://frants.site/sd_art)
 - 😻 Interesting in [Smart Home imlementation](https://frants.site/ihome)
 
-### How to reach me 📫
+## How to reach me 📫
 
 [![website](./img/globe-light.svg)](https://frants.site#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://frants.site#gh-dark-mode-only)
@@ -23,9 +24,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/asfrantsev#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/asfrantsev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/huggingface-light.svg)](https://huggingface.co/asfrants#gh-light-mode-only)
-[![website](./img/huggingface-dark.svg)](https://huggingface.co/asfrants#gh-dark-mode-only)
 
 <br />
 <br />
