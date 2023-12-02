@@ -3,7 +3,7 @@
 ## Analyst, ML-engineer, Trader ✨
 
 - 🔭 Check out [My Site][website]
-- 🌱 Currently working on [Sport Betting](https://frants.site/ml_sport) and [Trading](https://frants.site/trade4me) 
+- 🌱 Currently working on [Sport Betting](https://frants.site/ml_sport) and [Trading](https://frants.site/trade4me) using ML
 - 👯 Looking forward to collaborate on AI involved projects
 - ⚡ Hobby: Swimming, [AI-generated Arts with Stable Diffusion](https://frants.site/sd_art)
 - 😻 Interesting in [Smart Home imlementation](https://frants.site/ihome)
