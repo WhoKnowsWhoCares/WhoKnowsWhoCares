@@ -1,6 +1,6 @@
 # Hello there!
 
-## Analyst, ML-engineer, Trader ✨
+## I am Analyst, Data-Scientist, a bit Programmer and Trader ✨
 
 - 🔭 Check out [My Site][website]
 - 🌱 Currently working on [Sport Betting](https://frants.site/ml_sport) and [Trading](https://frants.site/trade4me) using ML
