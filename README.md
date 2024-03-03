@@ -13,17 +13,20 @@
 [![website](./img/globe-light.svg)](https://frants.site#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://frants.site#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://facebook.com/alexander_frantsev#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://facebook.com/alexander_frantsev#gh-dark-mode-only)
+[![facebook](./img/facebook-light.svg)](https://facebook.com/alexander_frantsev#gh-light-mode-only)
+[![facebook](./img/facebook-dark.svg)](https://facebook.com/alexander_frantsev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/asfrants#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/asfrants#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/asfrants#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/asfrants#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/telegram-light.svg)](https://t.me/as_frantsev#gh-light-mode-only)
-[![website](./img/telegram-dark.svg)](https://t.me/as_frantsev#gh-dark-mode-only)
+[![telegram](./img/telegram-light.svg)](https://t.me/as_frantsev#gh-light-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://t.me/as_frantsev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/asfrantsev#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/asfrantsev#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/asfrantsev#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/asfrantsev#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![huggingface](./img/huggingface-light.png)](https://huggingface.co/asFrants#gh-light-mode-only)
+[![huggingface](./img/huggingface-dark.png)](https://huggingface.co/asFrants#gh-dark-mode-only)
 
 [website]: https://frants.site
 [facebook]: https://facebook.com/alexander_frantsev
