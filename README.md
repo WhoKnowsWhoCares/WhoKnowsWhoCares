@@ -3,15 +3,15 @@
 ## I am Analyst, Data-Scientist, a bit Programmer and Trader ✨
 
 - 🔭 Check out [My Site][website]
-- 🌱 Currently working on [Sport Betting](https://frants.site/ml_sport) and [Trading](https://frants.site/trade4me) using ML
+- 🌱 Currently working on [Sport Betting](https://frants.tech/ml_sport) and [Trading](https://frants.tech/trade4me) using ML
 - 👯 Looking forward to collaborate on AI involved projects
-- ⚡ Hobby: Swimming, [AI-generated Arts with Stable Diffusion](https://frants.site/sd_art)
-- 😻 Interesting in [Smart Home imlementation](https://frants.site/ihome)
+- ⚡ Hobby: Swimming, [AI-generated Arts with Stable Diffusion](https://frants.tech/sd_art)
+- 😻 Interesting in [Smart Home imlementation](https://frants.tech/ihome)
 
 ## How to reach me 📫
 
-[![website](./img/globe-light.svg)](https://frants.site#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://frants.site#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://frants.tech#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://frants.tech#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![facebook](./img/facebook-light.svg)](https://facebook.com/alexander_frantsev#gh-light-mode-only)
 [![facebook](./img/facebook-dark.svg)](https://facebook.com/alexander_frantsev#gh-dark-mode-only)
