@@ -28,7 +28,7 @@
 [![huggingface](./img/huggingface-light.png)](https://huggingface.co/asFrants#gh-light-mode-only)
 [![huggingface](./img/huggingface-dark.png)](https://huggingface.co/asFrants#gh-dark-mode-only)
 
-[website]: https://frants.site
+[website]: https://frants.tech
 [facebook]: https://facebook.com/alexander_frantsev
 [instagram]: https://instagram.com/asfrants
 [telegram]: https://t.me/as_frantsev
